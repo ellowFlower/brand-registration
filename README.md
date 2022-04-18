@@ -16,3 +16,6 @@ It merges the two input datasets into a table containing the company names and t
 ## dataVisualization.py
 It creates a bar plot, which compares the brand registrations from 2017 and 2019.
 
+# Result
+After running the experiment results can be found in the directory `/data/output/`. 
+
