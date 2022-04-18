@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Brand registrations 2017 and 2019 from most active companies in Germany</dc:title>
+<dc:creator>Martin Szewieczek</dc:creator>
+<dc:subject>Comparison of the amount of brand registrations.</dc:subject>
+<dc:description>Automated tool that compares the brand registrations in Germany from the years 2017 and 2019 from the most active companies in that years.</dc:description>
+<dc:date>18.04.2022</dc:date>
+<dc:type>DataGeneration</dc:type>
+<dc:format>Python</dc:format>
+<dc:source>Deutsches Patent- und Markenamt, Referat 2.1.2 Kundenservice</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2017 and 2019</dc:coverage>
+<dc:rights>Free access</dc:rights>
+
+</metadata>

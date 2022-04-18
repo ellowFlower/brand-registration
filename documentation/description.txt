@@ -1,0 +1,2 @@
+The x-axis describes the years from conducting the surveys.
+The y-axis describes the amount of brand registrations from the most active companies in Germany.
