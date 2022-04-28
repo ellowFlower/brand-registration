@@ -1,9 +1,10 @@
 import pandas as pd
+import datetime
 
 
 RAW_DATA_DIR = "data/input-raw"
-DATA_2017 = RAW_DATA_DIR + "/brand-registration-2017.csv"
-DATA_2019 = RAW_DATA_DIR + "/brand-registration-2019.csv"
+DATA_2017 = RAW_DATA_DIR + "/brand-registration-2017-4282022.csv"
+DATA_2019 = RAW_DATA_DIR + "/brand-registration-2019-4282022.csv"
 pd.options.display.max_columns = None
 pd.options.display.max_rows = None
 
@@ -28,5 +29,6 @@ def main():
     data_2017, data_2019 = load_data()
     data_2017, data_2019 = filter_data(data_2017, data_2019)
     aggr_table = get_aggregated_table(data_2017, data_2019)
-    aggr_table.to_csv("./data/output/brand-registrations.csv")
+    timestamp = datetime.datetime.now().strftime("%w%d%Y")
+    aggr_table.to_csv("./data/output/brand-registrations-" + timestamp + ".csv")
     return aggr_table

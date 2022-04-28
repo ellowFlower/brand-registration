@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import datetime
 
 
 def create_bar_plot(_data_merged):
@@ -9,4 +10,5 @@ def create_bar_plot(_data_merged):
     plt.bar(y_pos, height)
     plt.xticks(y_pos, bars)
     plt.title("Registration of brands from Germany's most active companies")
-    plt.savefig("./data/output/brand-registrations-bar-plot.png")
+    timestamp = datetime.datetime.now().strftime("%w%d%Y")
+    plt.savefig("./data/output/brand-registrations-bar-plot-" + timestamp + ".png")
