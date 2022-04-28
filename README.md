@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/482939852.svg)](https://zenodo.org/badge/latestdoi/482939852)
+
 This experiment compares the brand registrations of Germany's most active companies in the years 2017 and 2019.
 
 # File naming convention
