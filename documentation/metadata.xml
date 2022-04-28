@@ -2,7 +2,7 @@
 
 <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>Brand registrations 2017 and 2019 from most active companies in Germany</dc:title>
-<dc:creator>Martin Szewieczek</dc:creator>
+<dc:creator>Martin Szewieczek ( https://orcid.org/0000-0002-8777-0248)</dc:creator>
 <dc:subject>Comparison of the amount of brand registrations.</dc:subject>
 <dc:description>Automated tool that compares the brand registrations in Germany from the years 2017 and 2019 from the most active companies in that years.</dc:description>
 <dc:date>18.04.2022</dc:date>
@@ -12,5 +12,4 @@
 <dc:language>English</dc:language>
 <dc:coverage>2017 and 2019</dc:coverage>
 <dc:rights>Free access</dc:rights>
-
 </metadata>

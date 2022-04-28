@@ -2,7 +2,7 @@ This experiment compares the brand registrations of Germany's most active compan
 
 # File naming convention
 The file naming convention for data input/output is: `[name]-[DDMMYYYY]`. If the name consists of multiple words they are seperated by `-`.
-The file naming convention for Python scripts is: [name].py. The name is written in camelcase format.
+The file naming convention for Python scripts is: `[name].py`. The name is written in camelcase format.
 
 # Data Sources
 - Data from 2017: [GovData Germany](https://www.govdata.de/web/guest/suchen/-/details/markeneintragungen-2017-liste-der-aktivsten-unternehmen-und-institutionen)
