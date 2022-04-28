@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/482939852.svg)](https://zenodo.org/badge/latestdoi/482939852)
+
 This experiment compares the brand registrations of Germany's most active companies in the years 2017 and 2019.
 
 # File naming convention
@@ -22,4 +24,6 @@ It creates a bar plot, which compares the brand registrations from 2017 and 2019
 
 # Result
 After running the experiment results can be found in the directory `/data/output/`. 
+
+Example output: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501809.svg)](https://doi.org/10.5281/zenodo.6501809), [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501816.svg)](https://doi.org/10.5281/zenodo.6501816)
 
