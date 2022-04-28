@@ -25,3 +25,5 @@ It creates a bar plot, which compares the brand registrations from 2017 and 2019
 # Result
 After running the experiment results can be found in the directory `/data/output/`. 
 
+Example output: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501809.svg)](https://doi.org/10.5281/zenodo.6501809), [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501816.svg)](https://doi.org/10.5281/zenodo.6501816)
+
